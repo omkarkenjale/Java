@@ -1,3 +1,3 @@
-#  Fabonacci series
+#  Core & Advanced Java
 
-Generating Fabonacci series on user input sequence length with exception handling
+Implementation of basic java concepts 
