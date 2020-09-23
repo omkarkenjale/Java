@@ -1,2 +1,2 @@
-# Java
+#  Fabonacci series
 Core
